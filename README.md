@@ -136,15 +136,9 @@ streamlit run app.py
 
 Dashboard Preview
 
-Add dashboard screenshot here.
-
 Dataset Preview
 
-Add dataset screenshot here.
-
 Terminal Output
-
-Add terminal output screenshot here.
 
 ---
 
