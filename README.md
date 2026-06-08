@@ -3,9 +3,9 @@ Global Happiness data cleaning and visualisation using python , pandas , matplot
 
 ## Global Happiness Insights Dashboard
 
-A Data Science project focused on analyzing global happiness trends using data cleaning, visualization, and interactive dashboard techniques.
+A Data Science project focused on analyzing global happiness trends using data cleaning, visualization, and interactive dashboard techniques.This project was developed as part of a data science internship focusing on data cleaning , data visualisation and dashboard development. 
 
-This project was developed as part of a data science internship focusing on data cleaning , data visualisation and dashboard development. 
+
 ---
 
 ## Project Overview
