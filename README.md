@@ -1,7 +1,7 @@
 # Guna-Global-Happiness-Insights--2026
 Global Happiness data cleaning and visualisation using python , pandas , matplotlib , seaborn and streamlit
 
-# Global Happiness Insights Dashboard
+## Global Happiness Insights Dashboard
 
 A Data Science project focused on analyzing global happiness trends using data cleaning, visualization, and interactive dashboard techniques.
 
